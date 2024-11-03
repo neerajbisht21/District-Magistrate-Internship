@@ -1,0 +1,7 @@
+Flask==2.0.2
+Flask-SQLAlchemy==3.0.1
+Flask-Migrate==3.1.0
+python-dotenv==0.19.5
+requests==2.26.0
+geopy
+postgreSQL
